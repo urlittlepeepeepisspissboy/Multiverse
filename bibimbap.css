@@ -1,0 +1,21 @@
+body{
+    font-family: 'Times New Roman', Times, serif ;
+}
+h2{
+    text-align: center;
+    background-color: rgb(245, 245, 239);
+    font-size: 50px;
+    box-shadow: rgb(197, 216, 217);
+   
+}
+
+p{
+    text-align: center;
+    font size 30px;
+}
+img {
+    height: 500px;
+    width: 500px;
+    border-radius: 12px;
+    box-shadow: rgb(225, 241, 238);
+}
